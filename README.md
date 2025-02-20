@@ -4,7 +4,7 @@ This project demonstrates a basic portfolio optimization workflow using Python. 
 
 ## Features
 
-- **Data Download**: Uses [yfinance](https://pypi.org/project/yfinance/) to download historical stock prices for selected tickers (AAPL, AMZN, GOOGL, MSFT, MSTR).
+- **Data Download**: Uses [yfinance](https://pypi.org/project/yfinance/) to download historical stock prices for selected tickers (MSTR, ETH-USD, NVDA, MSFT,BTC-USD, SOL-USD, etc..).
 - **Data Processing**: 
   - Extracts the "Close" prices from the downloaded data.
   - Calculates daily percentage returns.
