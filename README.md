@@ -38,6 +38,8 @@ How to Run
 ```sh
 python main.py
 ```
+- Or run it through a Jupiter notebook
+  
 ## python code walkthrough
 
 ## Data Download:
